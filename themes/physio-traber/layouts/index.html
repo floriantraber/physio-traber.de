@@ -1,0 +1,29 @@
+{{ partial "header.html" . }}
+
+<div class="container main">
+    <h1 style="text-align: center">{{ .Title }}</h1>
+    {{ .Content }}
+        <div class="row index">
+            <div class="col-sm">
+                <i class="fas fa-info rounded-circle"></i>
+                <h2>Angebote</h2>
+                <p>{{ .Params.intro | markdownify }}</p>
+                <p><a class="btn btn-secondary" href="/offers" role="button">Alle Angebote</a></p>
+            </div>
+            <div class="col-sm">
+                <i class="fas fa-calendar-check rounded-circle"></i>
+                <h2>Termin</h2>
+                <p>{{ .Params.termin | markdownify }}</p>
+                <p><a class="btn btn-secondary" href="/contact" role="button">Jetzt Termin vereinbaren</a></p>
+            </div>
+            <div class="col-sm">
+                <i class="fas fa-map-marked rounded-circle"></i>
+                <h2>Anfahrt</h2>
+                <p>{{ .Params.anfahrt | markdownify }}</p>
+                <p><a class="btn btn-secondary" href="/directions" role="button">Stuttgart</a></p>
+                <p><a class="btn btn-secondary" href="/directions" role="button">Walddorfhäslach</a></p>
+            </div>
+        </div>
+</div>
+{{ partial "footer.html" . }}
+

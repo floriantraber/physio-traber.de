@@ -1,0 +1,17 @@
+#baseURL = "/"
+baseURL = "/"
+languageCode = "de-de"
+title = "Physiotherapie Traber | 2 Praxen - Eine Philosphie "
+theme = "physio-traber"
+
+
+[[menu.main]]
+  name = "Therapeuten"
+  url = "/therapeuten"
+  weight = 120
+
+[params]
+stuttgartPhone = "+49 (711) 2626099"
+stuttgartAddress = "70190 Stuttgart, Stöckachstr. 9"
+haeslachPhone = "+49 (7127) 922824"
+haeslachAddress ="72141 Walddorfhäslach, Teckstr. 7"

@@ -1,0 +1,17 @@
+{{ partial "header.html" . }}
+
+<div class="container main  {{ .Name }}">
+    <h1>Therapeuten</h1>
+    {{ with .Content }}
+    {{ end }}
+
+    {{ $paginator := .Paginate .Data.Pages }}
+    {{ range $paginator.Pages }}
+    <h2>{{ .Title }}</h2>
+    <p>
+        {{ printf "%s" .Content | markdownify }}
+    </p>
+    {{ end }}
+</div>
+{{ partial "footer.html" . }}
+

@@ -1,0 +1,41 @@
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm">
+                <p class="footer-header">Stuttgart</p>
+                <p class="footer-line">{{ .Site.Params.stuttgartAddress }}</p>
+                <a href="mailto:w.s.traber@t-online.de" class="footer-line">
+                    <i class="fas fa-envelope"></i> w.s.traber@t-online.de</a>
+                <a href="tel:{{ .Site.Params.stuttgartPhone }}" class="footer-line">
+                    <i class="fas fa-phone"></i>{{ .Site.Params.stuttgartPhone }}</a>
+            </div>
+            <div class="col-sm">
+                <p class="footer-header">Walddorfhäslach</p>
+                <p class="footer-line">{{ .Site.Params.haeslachAddress }}</p>
+                <a href="mailto:w.s.traber@t-online.de" class="footer-line">
+                    <i class="fas fa-envelope"></i> w.s.traber@t-online.de</a>
+                <a href="tel:{{ .Site.Params.haeslachPhone }}" class="footer-line">
+                    <i class="fas fa-phone"></i> {{ .Site.Params.haeslachPhone }}</a>
+            </div>
+            <div class="col-sm">
+                {{ $currentPage := . }}
+                {{ range .Site.Menus.footer }}
+                <a class="footer-line" href="{{ .URL }}">{{ .Name }}</a>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+<!-- no used right now, enable if using tooltips and popovers see https://getbootstrap.com/docs/4.0/getting-started/introduction/#js
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>-->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+</body>
+</html>
