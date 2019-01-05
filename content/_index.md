@@ -22,8 +22,7 @@ termin: Bestellpraxis /30-60 minütig . Duis mollis, est non commodo luctus, nis
 anfahrt: Sie finden uns in Walddorfhäslach oder Stuttgart.
 ---
 ## 2 Praxen - eine Philosophie - Erfahrung und Wissen
-
-
+ 
 Über allen Angeboten steht die Philosophie individuell und ganzheitlich zu befunden und zu therapieren. Vorausetzung: Gründliche Untersuchung, genaue Analyse, anspruchsvolle Behandlung.
  
 Vorher  |  | Nacher
