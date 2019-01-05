@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Physiotherapie Traber | 2 Praxen - Eine Philosphie </title>
-    <link>/tags/</link>
+    <link>/physio-traber.de/tags/</link>
     <description>Recent content in Tags on Physiotherapie Traber | 2 Praxen - Eine Philosphie </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/physio-traber.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
