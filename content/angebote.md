@@ -27,7 +27,7 @@ Die Wirkung beruht auf einer regulativen Anregung der körpereigenen Rhythmik un
 
 Die MatrixRhythmusTherapie beinhaltet eine Befundaufnahme und Behandlung der gefundenen Dysfunktionen mit Mikrovibrationen der Skelettmuskulatur und gegenfalls manuellen Techniken.
 
-![Bild MatrixRhytmusTherapie](/img/matrix.jpg)
+![Bild MatrixRhytmusTherapie](/physio-traber.de/img/matrix.jpg)
 
 
 ## Osteopathie 

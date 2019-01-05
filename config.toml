@@ -1,5 +1,5 @@
 #baseURL = "/"
-baseURL = "/"
+baseURL = "/physio-traber.de/"
 languageCode = "de-de"
 title = "Physiotherapie Traber | 2 Praxen - Eine Philosphie "
 theme = "physio-traber"

@@ -28,7 +28,7 @@ anfahrt: Sie finden uns in Walddorfhäslach oder Stuttgart.
  
 Vorher  |  | Nacher
 --------|---|------
-![Voller Rucksack](/img/vollerrucksack2.png) | → | ![Leerer Rucksack](/img/leererrucksack2.png)
+![Voller Rucksack](/physio-traber.de/img/vollerrucksack2.png) | → | ![Leerer Rucksack](/physio-traber.de/img/leererrucksack2.png)
 
 <blockquote class="blockquote mt-5">
   <p>Wer nicht jeden Tag etwas Zeit für seine Gesundheit aufbringt, muss eines Tages sehr viel Zeit für die Krankheit opfern.</p>
