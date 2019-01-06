@@ -18,7 +18,7 @@ intro: |
         Naturmoorfango/Wärmetherapie \
         Fussreflexzonentherapie \
         Manuelle Lymphdrainage \
-termin: Bestellpraxis /30-60 minütig . Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibcondimentum nibcondimentum nibh.
+termin: Wir sind ausschließlich eine Bestellpraxis und bieten 30 und 60 minütige Behandlungen an.
 anfahrt: Sie finden uns in Walddorfhäslach oder Stuttgart.
 ---
 ## 2 Praxen - eine Philosophie - Erfahrung und Wissen
