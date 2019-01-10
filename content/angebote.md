@@ -6,7 +6,7 @@ menu:
     name: "Angebote"
     weight: 110
 ---
-Hier finden Sie eine Auswahl von Behandlungen die wir Anbieten.
+Hier finden Sie eine Auswahl von Behandlungen, welche wir anbieten.
 Sollten Sie fragen zu einer Behandlung haben, oder die von Ihnen gewünschte Behandlung hier nicht aufgeführt sein, kontaktieren Sie uns. [Hier klicken um zum Kontaktformular zu gelangen](/contact)
 
 ## Physiotherapie/Krankengymnastik 
