@@ -25,8 +25,8 @@ anfahrt: Sie finden uns in Walddorfhäslach oder Stuttgart.
  
 Über allen Angeboten steht die Philosophie individuell und ganzheitlich zu befunden und zu therapieren. Vorausetzung: Gründliche Untersuchung, genaue Analyse, anspruchsvolle Behandlung.
  
-Vorher  |  | Nacher
---------|---|------
+Vorher  |                       | Nacher
+--------|--                    -|------
 ![Voller Rucksack](/physio-traber.de/img/vollerrucksack2.png) | → | ![Leerer Rucksack](/physio-traber.de/img/leererrucksack2.png)
 
 <blockquote class="blockquote mt-5">
