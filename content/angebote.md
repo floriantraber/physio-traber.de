@@ -6,6 +6,7 @@ menu:
     name: "Angebote"
     weight: 110
 ---
+( Durch unsere ganzheitliche Betrachtung vereinen wir alle unten aufgeführtenAngebote)
 Hier finden Sie eine Auswahl von Behandlungen, welche wir anbieten.
 Sollten Sie fragen zu einer Behandlung haben, oder die von Ihnen gewünschte Behandlung hier nicht aufgeführt sein, kontaktieren Sie uns. [Hier klicken um zum Kontaktformular zu gelangen](/contact)
 
@@ -97,7 +98,7 @@ Naturmoorfango sind Einmalpackungen, welche sich langsam durch die darunterliege
 
 
 ## Physiokey
-biofeedbackgesteuerte Impulse die Selbstregulation. Der Einfluss auf das vegetative Nervensystem und damit auf die körpereigenen Anpassungs- und Regulationsvorgänge stärken die Abwehrkräfte und zeigen dem Körper einen Weg zur Selbstheilung auf. Ziel der Therapie ist eine rasche Schmerzlinderung und Funktionsverbesserung. Durch die neuste Entwicklung ist es erstmals möglich zwischen einem adaptive regulativem Impuls und einem galvanischen Signal zu wechseln. Es handelt sich also um eine Kombination zwischen einem Trägersignal auf Grundlage von Wechselstrom und einem Ionenfluss auf Grundlage von Gleichstrom. 
+Durch die neuste Entwicklung ist es erstmals möglich zwischen einem adaptivem regulativem Impuls und einem galvanischen Signal zu wechseln. Es handelt sich also um eine Kombination zwischen einem Trägersignal auf Grundlage von Wechselstrom und einem Ionenfluss auf Grundlage von Gleichstrom.  Der Einfluss auf das vegetative Nervensystem und damit auf die körpereigenen Anpassungs- und Regulationsvorgänge (biofeedbackgesteuerte Impulse zur Selbstregulation) stärken die Abwehrkräfte und zeigen dem Körper einen Weg zur Selbstheilung auf. Ziel der Therapie ist eine rasche Schmerzlinderung und Funktionsverbesserung. 
 
 J
 ## Fussreflexzonentherapie 
