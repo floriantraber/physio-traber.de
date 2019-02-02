@@ -8,7 +8,7 @@ menu:
     weight: 100
 intro: |
         Osteopathie \
-        Manuelle Therapie/Physiothera \
+        Manuelle Therapie/Physiotherapie \
         Fasziendistorsionsmodel (FDM) \
         MatrixRhytmusTherapie \
         Physiokey \
