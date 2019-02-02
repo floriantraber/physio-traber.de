@@ -5,10 +5,8 @@ menu:
   main:
     name: "Angebote"
     weight: 110
----
-( Durch unsere ganzheitliche Betrachtung vereinen wir alle unten aufgeführtenAngebote)
-Hier finden Sie eine Auswahl von Behandlungen, welche wir anbieten.
-Sollten Sie fragen zu einer Behandlung haben, oder die von Ihnen gewünschte Behandlung hier nicht aufgeführt sein, kontaktieren Sie uns. [Hier klicken um zum Kontaktformular zu gelangen](/contact)
+--- Durch unsere ganzheitliche Betrachtung vereinen wir alle unten aufgeführten Angebote.
+ [Hier klicken um zum Kontaktformular zu gelangen](/contact)
 
 ## Physiotherapie/Krankengymnastik 
 
@@ -16,10 +14,9 @@ Nach einem physiotherapeutischen Befund erhalten Sie geeignete Übungen zur Übe
 
 ## Manuelle Therapie
 
-Die Manuelle Therapie befasst sich mit speziellen diagnostischen und therapeutischen Verfahren, die der Auffindung (Erkennung) und Behandlung von reversiblen Funktionsstörungen am Bewegungsapparat dienen. Es handelt sich um den parietalen Teil der Osteopathie.
+Die Manuelle Therapie befasst sich mit speziellen diagnostischen und therapeutischen Verfahren, die der Auffindung und Behandlung von reversiblen Funktionsstörungen am Bewegungsapparat dienen. Es handelt sich um den parietalen Teil der Osteopathie.
 
- Die Auswahl der jeweiligen Mobilisationstechniken, die der Manualtherapeut einsetzt, wird bestimmt durch den Befund, die eingeschränkte Bewegungsrichtung und die Form der Gelenke.
-
+ 
 ## MatrixRhytmusTherapie 
 
 Die MatrixRhythmusTherapie (MaRhyThe) ist eine aus der zellbiologischen Grundlagenforschung der Universität Erlangen entwickelte Behandlungsform.
@@ -100,7 +97,7 @@ Naturmoorfango sind Einmalpackungen, welche sich langsam durch die darunterliege
 ## Physiokey
 Durch die neuste Entwicklung ist es erstmals möglich zwischen einem adaptivem regulativem Impuls und einem galvanischen Signal zu wechseln. Es handelt sich also um eine Kombination zwischen einem Trägersignal auf Grundlage von Wechselstrom und einem Ionenfluss auf Grundlage von Gleichstrom.  Der Einfluss auf das vegetative Nervensystem und damit auf die körpereigenen Anpassungs- und Regulationsvorgänge (biofeedbackgesteuerte Impulse zur Selbstregulation) stärken die Abwehrkräfte und zeigen dem Körper einen Weg zur Selbstheilung auf. Ziel der Therapie ist eine rasche Schmerzlinderung und Funktionsverbesserung. 
 
-J
+
 ## Fussreflexzonentherapie 
 
 `` Diese Therapie wird nur in Stuttgart von Frau Bast angeboten (Privatrezept erforderlich)``
