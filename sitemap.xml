@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>/physio-traber.de/therapeuten/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/physio-traber.de/anfahrt/</loc>
   </url>
   
@@ -48,7 +53,7 @@
   </url>
   
   <url>
-    <loc>/physio-traber.de/therapeuten/werner/</loc>
+    <loc>/physio-traber.de/-therapeuten/werner/</loc>
   </url>
   
 </urlset>
