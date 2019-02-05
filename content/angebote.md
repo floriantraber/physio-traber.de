@@ -30,7 +30,7 @@ Die MatrixRhythmusTherapie beinhaltet eine Befundaufnahme und Behandlung der gef
 
 ## Osteopathie 
 
-Wir sind Mitglied im VOSD und geprüft und anerkannt unter Anderem durch die  [Techniker Kranken Kasse (TKK)](tk.de).
+Wir sind geprüft und anerkannt unter anderem durch die  [Techniker Kranken Kasse (TKK)](tk.de).
 
 Wir bieten die parietale „Osteopathie“ (Verordnung: Manuelle Therapie), sowie spezielle Massagen des Bindegewebes (Faszien), Lymphtechniken, sowie Colon- und Segmenttherapie an.
 Die Osteopathie ist eine ganzheitliche Betrachtungsweise des Menschen und seiner Funktionsvorgänge. Im Mittelpunkt steht die Versorgung und der Stoffwechsel durch Blut, Nerven und Lymphe und entspricht dem ärztlich naturwissenschaftlichen Denken.
