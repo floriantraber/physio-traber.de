@@ -3,57 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/physio-traber.de/privacy/</loc>
+    <loc>/privacy/</loc>
     <lastmod>2018-05-17T21:06:04+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/physio-traber.de/</loc>
+    <loc>/</loc>
     <lastmod>2018-05-17T21:06:04+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/physio-traber.de/therapeuten/</loc>
+    <loc>/anfahrt/</loc>
+  </url>
+  
+  <url>
+    <loc>/angebote/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/physio-traber.de/anfahrt/</loc>
+    <loc>/impressum/</loc>
   </url>
   
   <url>
-    <loc>/physio-traber.de/angebote/</loc>
+    <loc>/kontakt/</loc>
   </url>
   
   <url>
-    <loc>/physio-traber.de/categories/</loc>
+    <loc>/therapeuten/sonja/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/physio-traber.de/impressum/</loc>
-  </url>
-  
-  <url>
-    <loc>/physio-traber.de/kontakt/</loc>
-  </url>
-  
-  <url>
-    <loc>/physio-traber.de/therapeuten/sonja/</loc>
-  </url>
-  
-  <url>
-    <loc>/physio-traber.de/tags/</loc>
+    <loc>/therapeuten/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/physio-traber.de/therapeuten/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/physio-traber.de/-therapeuten/werner/</loc>
+    <loc>/therapeuten/werner/</loc>
   </url>
   
 </urlset>

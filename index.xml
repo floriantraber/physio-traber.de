@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fachpraxis Traber on Physiotherapie Traber | 2 Praxen - Eine Philosphie </title>
-    <link>/physio-traber.de/</link>
+    <link>/</link>
     <description>Recent content in Fachpraxis Traber on Physiotherapie Traber | 2 Praxen - Eine Philosphie </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 17 May 2018 21:06:04 +0200</lastBuildDate>
     
-	<atom:link href="/physio-traber.de/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Datenschutzerklärung</title>
-      <link>/physio-traber.de/privacy/</link>
+      <link>/privacy/</link>
       <pubDate>Thu, 17 May 2018 21:06:04 +0200</pubDate>
       
-      <guid>/physio-traber.de/privacy/</guid>
+      <guid>/privacy/</guid>
       <description>Datenschutz Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.
 Die Nutzung unserer Website ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder E-Mail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.</description>
     </item>
     
     <item>
       <title>Anfahrt</title>
-      <link>/physio-traber.de/anfahrt/</link>
+      <link>/anfahrt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/physio-traber.de/anfahrt/</guid>
+      <guid>/anfahrt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Angebote</title>
-      <link>/physio-traber.de/angebote/</link>
+      <link>/angebote/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/physio-traber.de/angebote/</guid>
+      <guid>/angebote/</guid>
       <description>Durch unsere ganzheitliche Betrachtung vereinen wir alle unten aufgeführten Angebote. Hier klicken um zum Kontaktformular zu gelangen
 Physiotherapie/Krankengymnastik Nach einem physiotherapeutischen Befund erhalten Sie geeignete Übungen zur Überwindung Ihrer Beschwerden.
 Manuelle Therapie Die Manuelle Therapie befasst sich mit speziellen diagnostischen und therapeutischen Verfahren, die der Auffindung und Behandlung von reversiblen Funktionsstörungen am Bewegungsapparat dienen. Es handelt sich um den parietalen Teil der Osteopathie.
@@ -44,10 +44,10 @@ MatrixRhytmusTherapie Die MatrixRhythmusTherapie (MaRhyThe) ist eine aus der zel
     
     <item>
       <title>Impressum</title>
-      <link>/physio-traber.de/impressum/</link>
+      <link>/impressum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/physio-traber.de/impressum/</guid>
+      <guid>/impressum/</guid>
       <description>Angaben gemäß § 5 TMG:
 Werner Traber
 Praxis für Manuelle Therapie
@@ -61,19 +61,19 @@ Haftungsausschluss (Disclaimer) Haftung für Inhalte Als Diensteanbieter sind wi
     
     <item>
       <title>Kontakt</title>
-      <link>/physio-traber.de/kontakt/</link>
+      <link>/kontakt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/physio-traber.de/kontakt/</guid>
+      <guid>/kontakt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sonja Traber</title>
-      <link>/physio-traber.de/therapeuten/sonja/</link>
+      <link>/therapeuten/sonja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/physio-traber.de/therapeuten/sonja/</guid>
+      <guid>/therapeuten/sonja/</guid>
       <description>Staatlich geprüfte Physiotherapeutin und Staatlich geprüfte Manualtherapeutin (Manuelle Medizin)
  4-jähriges Sportstudium 5-jähriges Osteopathiestudium an der International Academie of Osteopathie Osteopathische Weiterbildungen bei Prof. Dr. Beck, Dr. Kindermann, Torsten Liem, Jean Pierre Barral, Maurice Cesar Bowentherapeutin  Zusatzqualifikationen im Bereich der
  Sportphysiotherapie medizinischen Trainingstherapie Kinesiotaping Kinesiologie Jonestherapie (Strain and Counterstrain) MatrixRhythmusTherapie Elektroakkupunktur Kiefergelenksbehandlungen (craniomandibuläre Dysfunktionen)  </description>
@@ -81,10 +81,10 @@ Haftungsausschluss (Disclaimer) Haftung für Inhalte Als Diensteanbieter sind wi
     
     <item>
       <title>Werner Traber</title>
-      <link>/physio-traber.de/-therapeuten/werner/</link>
+      <link>/therapeuten/werner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/physio-traber.de/-therapeuten/werner/</guid>
+      <guid>/therapeuten/werner/</guid>
       <description>Staatlich geprüfter Physiotherapeut und staatlich geprüfter Manualtherapeut (Manuelle Medizin) Mitglied im VOSD und ZVK
  4-jähriges Sportstudium 5-jähriges Osteopathiestudium an der International Academie of Osteopathie Weitere osteopathische Weiterbildungen bei Prof. Dr. Beck, Dr.Kindermann, Torsten Liem, Jean Pierre Barral, Maurice Cesar, Dr. Wühr, … Golfphysiotherapeut (Golfpro Dieter Cabus/Mallorca, Bernd Braun/Lam)  Zusatzqualifikationen im Bereich der
  Sportphysiotherapie medizinischen Trainingstherapie Medicaltaping Jonestherapie (Strain and Counterstrain) Kiefergelenksbehandlungen (craniomandibuläre Dysfunktionen) MatrixRhythmusTherapie  </description>
