@@ -6,7 +6,7 @@ menu:
     name: "Angebote"
     weight: 110
 --- Durch unsere ganzheitliche Betrachtung vereinen wir alle unten aufgeführten Angebote.
- [Hier klicken um zum Kontaktformular zu gelangen](/contact)
+ [Hier klicken um zum Kontaktformular zu gelangen](/kontakt)
 
 ## Physiotherapie/Krankengymnastik 
 
@@ -25,7 +25,7 @@ Die Wirkung beruht auf einer regulativen Anregung der körpereigenen Rhythmik un
 
 Die MatrixRhythmusTherapie beinhaltet eine Befundaufnahme und Behandlung der gefundenen Dysfunktionen mit Mikrovibrationen der Skelettmuskulatur und gegenfalls manuellen Techniken.
 
-![Bild MatrixRhytmusTherapie](/physio-traber.de/img/matrix.jpg)
+![Bild MatrixRhytmusTherapie](/img/matrix.jpg)
 
 
 ## Osteopathie 
@@ -56,7 +56,6 @@ Aber auch der Amateur muss auf seinen Körper achten, besonders dann , wenn scho
 
 ## Kineosiotaping und Meditaping 
 
-TODO Bilder 
 Das Taping (tape: Verbandspflaster ) wurde schon in den 70er Jahren von dem japanischen Chiropraktiker Dr. Kenzo Kase entwickelt. Es ist eine funktionelle Verbandtechnik mit einem speziellen Material  (hypoallergen), welches je nach Ziel entsprechend angelegt wird und dadurch Bewegungen nicht einschränkt , sondern als  funktionelle Verbandtechnik eine Sportausübung und die physiologische Bewegungsfähigkeit von Gelenken/ Muskulatur weiterhin ermöglicht.
 
 * Einfluss auf das zirkulatorische System/ Stoffwechsels (Blut und Lymphe)
@@ -86,15 +85,12 @@ Chronische Schmerzen entstehen durch Adhäsionen und falsche Querverbindungen (C
 
 Eine Möglichkeit für die Entstehung eines Triggerbandes (eine der sechs Störungen der Faszien im Bewegungsapparat) ist die Kalzifizierung der Faszie entlang einer Stresslinie. Man geht davon aus, dass die Belastung, welcher der Patient ausgesetzt ist, eine stabilere Faszie erfordert. Um dies zu gewährleisten, wird das Bindegewebe in diesem Spannungsbereich mit Kalzium verstärkt. Der Therapeut behandelt diese Distorsion (Verformung, Verdrehung) mit Druck.
 
-TODO Bild 
-
-
 ## Naturmoorfango/Wärmetherapie 
 
 Naturmoorfango sind Einmalpackungen, welche sich langsam durch die darunterliegenden Wärmeträger erwärmen. Deshalb kreislaufschonend und auch für Herzpatienten möglich.
 
-
 ## Physiokey
+
 Durch die neuste Entwicklung ist es erstmals möglich zwischen einem adaptivem regulativem Impuls und einem galvanischen Signal zu wechseln. Es handelt sich also um eine Kombination zwischen einem Trägersignal auf Grundlage von Wechselstrom und einem Ionenfluss auf Grundlage von Gleichstrom.  Der Einfluss auf das vegetative Nervensystem und damit auf die körpereigenen Anpassungs- und Regulationsvorgänge (biofeedbackgesteuerte Impulse zur Selbstregulation) stärken die Abwehrkräfte und zeigen dem Körper einen Weg zur Selbstheilung auf. Ziel der Therapie ist eine rasche Schmerzlinderung und Funktionsverbesserung. 
 
 

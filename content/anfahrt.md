@@ -1,7 +1,7 @@
 ---
 title: "Anfahrt"
 draft: false
-type: "directions"
+type: "anfahrt"
 menu: 
   main:
     weight: 130

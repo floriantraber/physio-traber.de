@@ -1,6 +1,6 @@
 --- 
 title: "Kontakt"
-type: "contact"
+type: "kontakt"
 menu: 
   main:
     weight: 130

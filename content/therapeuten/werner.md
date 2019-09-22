@@ -3,7 +3,7 @@ title: "Werner Traber"
 draft: false
 type: "therapeuten"
 ---
-![Werner Traber](/physio-traber.de/img/werner.jpg)
+![Werner Traber](/img/werner.jpg)
 
 Staatlich geprüfter Physiotherapeut und staatlich geprüfter Manualtherapeut (Manuelle Medizin)
 Mitglied im VOSD und  ZVK
