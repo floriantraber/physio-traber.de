@@ -10,4 +10,4 @@ hugo
 
 npm run gulp
 
-# echo "physio-traber.de" >> public/CNAME
+echo "physio-traber.de" >> public/CNAME
