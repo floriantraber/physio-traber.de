@@ -94,13 +94,4 @@ Naturmoorfango sind Einmalpackungen, welche sich langsam durch die darunterliege
 Durch die neuste Entwicklung ist es erstmals möglich zwischen einem adaptivem regulativem Impuls und einem galvanischen Signal zu wechseln. Es handelt sich also um eine Kombination zwischen einem Trägersignal auf Grundlage von Wechselstrom und einem Ionenfluss auf Grundlage von Gleichstrom.  Der Einfluss auf das vegetative Nervensystem und damit auf die körpereigenen Anpassungs- und Regulationsvorgänge (biofeedbackgesteuerte Impulse zur Selbstregulation) stärken die Abwehrkräfte und zeigen dem Körper einen Weg zur Selbstheilung auf. Ziel der Therapie ist eine rasche Schmerzlinderung und Funktionsverbesserung. 
 
 
-## Fussreflexzonentherapie 
 
-`` Diese Therapie wird nur in Stuttgart von Frau Bast angeboten (Privatrezept erforderlich)``
-Bei der Fußreflexzonenmassage werden die Zonen an den Füssen behandelt. Durch die Massage dieser Reflexzonen wird regulierend auf die inneren Organe und Körperfunktionen eingewirkt. Die Behandlung wirkt entspannend, aktiviert ganz gezielt die Selbstheilungskräfte und die gesamten Energieabläufe im Körper werden in ein gesundes, harmonisches Gleichgewicht gebracht.
-
-## Manuelle Lymphdrainage
-
-``In Stuttgart von Frau Bast,
-Lymphanschwellungen werden mit gezielten Handgriffen zum Abfließen angeregt.
-Nach Operationen, Unfällen oder Bindegewebsschwächen ist das Abflusssystem der Gewebsflüssigkeit häufig gestört. Eine zeitlich begrenzte oder auch eine dauerhafte Manuelle Lymphdrainage unterstützt den Abfluss und die Heilung des Gebietes.
