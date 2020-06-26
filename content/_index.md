@@ -32,3 +32,9 @@ anfahrt: Sie finden uns in Walddorfhäslach .
   <p>Wer nicht jeden Tag etwas Zeit für seine Gesundheit aufbringt, muss eines Tages sehr viel Zeit für die Krankheit opfern.</p>
   <footer class="blockquote-footer"><cite title="Sebastian Kneipp">Sebastian Kneipp</cite></footer>
 </blockquote>
+
+
+
+Nach 28 Jahren haben wir die Praxis in Stuttgart geschlossen und arbeiten wieder gemeinsam in Walddorfhäslach.
+
+Ganz herzlich möchten wir uns für das zum Teil jahrzehntelange Vertrauen bedanken.
