@@ -34,7 +34,11 @@ anfahrt: Sie finden uns in Walddorfhäslach .
 </blockquote>
 
 
-
-Nach 28 Jahren haben wir die Praxis in Stuttgart geschlossen und arbeiten wieder gemeinsam in Walddorfhäslach.
-
-Ganz herzlich möchten wir uns für das zum Teil jahrzehntelange Vertrauen bedanken.
+<div class="alert alert-primary" role="alert">
+  <p>
+    Nach 28 Jahren haben wir die Praxis in Stuttgart geschlossen und arbeiten wieder gemeinsam in Walddorfhäslach.
+  </p>
+  <p>
+    Ganz herzlich möchten wir uns für das zum Teil jahrzehntelange Vertrauen bedanken.
+  </p>
+</div>
