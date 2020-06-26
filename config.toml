@@ -11,7 +11,5 @@ theme = "physio-traber"
   weight = 120
 
 [params]
-stuttgartPhone = "+49 (711) 2626099"
-stuttgartAddress = "70190 Stuttgart, Stöckachstr. 9"
 haeslachPhone = "+49 (7127) 922824"
 haeslachAddress ="72141 Walddorfhäslach, Teckstr. 7"
