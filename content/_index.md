@@ -22,9 +22,9 @@ termin: |
         Wir sind eine reine Bestellpraxis \
         \
         Wir bieten 30 und 60 minütige Behandlungen an.
-anfahrt: Sie finden uns in Walddorfhäslach oder Stuttgart.
+anfahrt: Sie finden uns in Walddorfhäslach .
 ---
-## 2 Praxen - eine Philosophie - Erfahrung und Wissen
+## 2 Therapeuten - eine Philosophie - Erfahrung und Wissen
  
 Über allen Angeboten steht die Philosophie individuell und ganzheitlich zu befunden und zu therapieren. Vorausetzung: Gründliche Untersuchung, genaue Analyse, anspruchsvolle Behandlung.
  
