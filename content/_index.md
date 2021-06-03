@@ -16,8 +16,6 @@ intro: |
         Golf- und Sportphysiotherapie \
         Taping \
         Naturmoorfango/Wärmetherapie \
-        Fussreflexzonentherapie \
-        Manuelle Lymphdrainage \
 termin: |
         Wir sind eine reine Bestellpraxis \
         \
