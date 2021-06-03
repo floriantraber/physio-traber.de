@@ -3,7 +3,7 @@ title: "Sonja Traber"
 draft: false
 type: "therapeuten"
 ---
-![Sonja Traber](/img/sonja.png)
+![Sonja Traber](/img/sonja.jpg)
 Staatlich geprüfte Physiotherapeutin und Staatlich geprüfte Manualtherapeutin (Manuelle Medizin)
     
 * 4-jähriges Sportstudium
