@@ -15,6 +15,7 @@ type: "therapeuten"
 * Matrix-Rhythmus-Therapie
 
 Zusatzqualifikationen im Bereich der
+
 * Kiefergelenksbehandlungen (craniomandibuläre Dysfunktionen) Dr. Wühr
 * Sportphysiotherapie (WTB/Dr. Mauch/Sportklinik Stuttgart)
 * medizinischen Trainingstherapie
