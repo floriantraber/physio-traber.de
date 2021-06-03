@@ -3,8 +3,7 @@ title: "Sonja Traber"
 draft: false
 type: "therapeuten"
 ---
-![Sonja Traber](/img/sonja.jpg)
-Staatlich geprüfte Physiotherapeutin und Staatlich geprüfte Manualtherapeutin (Manuelle Medizin)
+![Sonja Traber](/img/sonja.jpg) Staatlich geprüfte Physiotherapeutin und Staatlich geprüfte Manualtherapeutin (Manuelle Medizin)
     
 * 4-jähriges Sportstudium
 * 5-jähriges Osteopathiestudium an der International Academie of Osteopathie
@@ -19,5 +18,5 @@ Zusatzqualifikationen im Bereich der
 * Kinesiologie
 * Jonestherapie (Strain and Counterstrain)
 * MatrixRhythmusTherapie
-* Elektroakkupunktur
 * Kiefergelenksbehandlungen (craniomandibuläre Dysfunktionen)
+* Physiokey
